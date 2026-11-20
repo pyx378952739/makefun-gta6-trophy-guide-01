@@ -1,4 +1,6 @@
-# Screenshots — status: PENDING, needs a browser task
+# Screenshots — status: RENDERED (2026-11-20 16:22)
+
+4 shots captured from the live GitHub Pages app (pyx378952739.github.io/makefun-gta6-trophy-guide-01/app/), each 1280×800 JPEG q82, each ≤ 256 KiB, seed 13/55 verified in every frame. Stale starter placeholders removed. Notes: shot 2 was cropped from a full-page render and stretched ~5% horizontally to 1280 (content complete and legible); shot 3 shows phase 1 (5/12) with phase 2 below the fold; shot 4 scrolled ~180px so the Trust guide panel fits, header off-frame. All three verified in-browser to exist.
 
 No headless Chromium / Playwright exists on this build machine (checked 2026-11-20: no
 `chromium`/`google-chrome` binary, no Playwright module, nothing installed), and the build
